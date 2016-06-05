@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="102px" height="85px" viewBox="0.976 27.888 102 85"
+	 overflow="visible" enable-background="new 0.976 27.888 102 85" xml:space="preserve">
+<defs>
+</defs>
+<rect y="1.742" fill="none" width="90.996" height="51.5"/>
+<text transform="matrix(1 0 0 1 4.6494 13.6084)" fill="#2C3E50" font-family="'Montserrat-Bold'" font-size="16">Our Focus</text>
+<g>
+	<defs>
+		<circle id="SVGID_2_" cx="51.411" cy="74.066" r="24.277"/>
+	</defs>
+	<clipPath id="SVGID_4_">
+		<use xlink:href="#SVGID_2_"  overflow="visible"/>
+	</clipPath>
+	<rect x="46.011" y="90.768" clip-path="url(#SVGID_4_)" fill="#BDC3C7" width="11.177" height="7.943"/>
+</g>
+<rect x="45.888" y="92.438" fill="#95A5A5" width="11.306" height="1.285"/>
+<path fill="#3B97D3" d="M51.181,48.319c-0.672,0-1.217,0.547-1.217,1.216c0,0.671,0.545,1.219,1.217,1.219
+	c12.849,0,23.304,10.451,23.304,23.305c0,12.849-10.455,23.301-23.304,23.301c-12.851,0-23.306-10.452-23.306-23.301
+	c0-8.105,4.248-15.634,11.13-19.861l0.686,1.423c0.094,0.195,0.287,0.325,0.503,0.343c0.014,0.003,0.027,0.003,0.045,0.003
+	c0.201,0,0.388-0.1,0.504-0.267l3.038-4.464c0.122-0.182,0.142-0.411,0.051-0.606c-0.099-0.195-0.291-0.329-0.507-0.343
+	l-5.385-0.405c-0.207-0.012-0.425,0.085-0.547,0.267c-0.123,0.179-0.143,0.41-0.046,0.606l0.596,1.241
+	c-7.724,4.642-12.502,13.033-12.502,22.063c0,14.189,11.546,25.735,25.74,25.735c14.192,0,25.735-11.546,25.735-25.735
+	C76.917,59.864,65.374,48.319,51.181,48.319z"/>
+<path fill="#35495E" d="M78.932,88.515c0,1.487-1.205,2.692-2.691,2.692H26.958c-1.487,0-2.692-1.205-2.692-2.692V59.834
+	c0-1.486,1.205-2.692,2.692-2.692h49.283c1.486,0,2.691,1.206,2.691,2.692V88.515z"/>
+<rect x="26.688" y="59.431" fill="#2C3E50" width="49.803" height="23.968"/>
+<polygon opacity="0.05" fill="#FFFFFF" points="26.688,59.431 26.688,80.705 70.965,59.431 "/>
+<path fill="#BDC3C7" d="M24.265,85.935v3.794c0,1.487,1.205,2.693,2.692,2.693h49.283c1.486,0,2.691-1.206,2.691-2.693v-3.794
+	H24.265z"/>
+<circle fill="#2C3E50" cx="49.402" cy="73.421" r="1.5"/>
+<circle fill="#3B97D3" cx="49.402" cy="73.421" r="0.75"/>
+<circle fill="#2C3E50" stroke="#3B97D3" stroke-width="0.3" stroke-miterlimit="10" cx="56.903" cy="73.587" r="1.5"/>
+<circle fill="#3B97D3" cx="56.903" cy="73.587" r="0.75"/>
+<circle fill="#2C3E50" cx="64.403" cy="69.587" r="1.5"/>
+<circle fill="#3B97D3" cx="64.403" cy="69.587" r="0.75"/>
+<circle fill="#2C3E50" cx="71.903" cy="64.443" r="1.5"/>
+<circle fill="#3B97D3" cx="71.903" cy="64.443" r="0.75"/>
+<circle fill="#2C3E50" cx="34.401" cy="77.609" r="1.5"/>
+<circle fill="#3B97D3" cx="34.402" cy="77.609" r="0.75"/>
+<circle fill="#2C3E50" cx="41.902" cy="74.611" r="1.5"/>
+<circle fill="#3B97D3" cx="41.902" cy="74.611" r="0.75"/>
+<line fill="none" stroke="#3B97D3" stroke-width="0.3" stroke-miterlimit="10" x1="34.318" y1="77.441" x2="41.736" y2="74.692"/>
+<line fill="none" stroke="#3B97D3" stroke-width="0.3" stroke-miterlimit="10" x1="41.82" y1="74.692" x2="49.403" y2="73.276"/>
+<line fill="none" stroke="#3B97D3" stroke-width="0.3" stroke-miterlimit="10" x1="49.403" y1="73.276" x2="56.903" y2="73.609"/>
+<line fill="none" stroke="#3B97D3" stroke-width="0.3" stroke-miterlimit="10" x1="56.903" y1="73.609" x2="64.235" y2="69.61"/>
+<line fill="none" stroke="#3B97D3" stroke-width="0.3" stroke-miterlimit="10" x1="64.235" y1="69.61" x2="71.821" y2="64.526"/>
+<rect x="65.043" y="77.571" fill="#2C3E50" width="8.424" height="0.761"/>
+<rect x="65.043" y="76.454" fill="#3B97D3" width="4.492" height="0.761"/>
+<rect x="65.043" y="78.571" fill="#35495E" width="8.424" height="0.761"/>
+</svg>

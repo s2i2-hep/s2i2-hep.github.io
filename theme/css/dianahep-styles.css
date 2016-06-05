@@ -1,0 +1,280 @@
+
+.navbar-blue {
+    background-color: #2C3E50;
+    border-color: #2C3E50;
+    height: 80px;
+}
+
+.navbar-brand {
+
+    margin-top: 0px;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+
+    background-color: white;
+}
+
+.navbar-toggle {
+
+    margin-top: 16px;
+
+}
+
+.navbar-default .navbar-toggle:focus,.navbar-default .navbar-toggle:hover{
+    background-color: #2C3E50;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: transparent;
+}
+
+.navbar-collapse {
+    padding-right: 15px;
+    padding-left: 15px;
+    overflow-x: visible;
+    -webkit-overflow-scrolling: touch;
+    border-top: transparent;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+
+}
+
+.navbar-nav {
+    padding-top: 13px;
+}
+
+.navbar-default .navbar-nav > .active > a{
+    color: #3B97D3;
+    background-color: transparent;
+    font-weight: bolder;
+
+}
+
+.navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+    color: white;
+    background-color: transparent;
+    font-weight: bolder;
+}
+
+.navbar-nav a:hover {
+    color:white;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: white;
+    background-color: transparent;
+    padding-left: 20px;
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+    color: #3B97D3;
+    background-color: transparent;
+}
+
+
+.navbar-default .btn-link {
+    color: white;
+}
+
+.navbar-default .btn-link:hover {
+    color: #3B97D3;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: transparent;
+    background-color: #2C3E50;
+}
+
+.navbar-form {
+    padding: 10px 15px;
+    margin-top: 8px;
+    margin-right: -15px;
+    margin-bottom: 8px;
+    margin-left: -15px;
+    border: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+.search-form input {
+    border: 1px white solid;
+    background-color: white;
+    border-radius: 4px;
+}
+
+
+.btn-darkblue {
+    background-color: #3B97D3;
+    color: white;
+    border-color: #3B97D3;
+}
+
+.btn-darkblue:hover {
+    background-color: #2980BA;
+    color: white;
+    border-color: #2980BA;
+
+}
+
+.jumbotron {
+    padding-top: 40px;
+}
+
+.jumbo-blue {
+    height: 25em;
+    padding: 15px;
+    background: #3B97D3 url("../img/code-event.svg") 100% 100% no-repeat;
+    background-size: 30%;
+}
+
+.jumbo-blue .container {
+    width: 60%;
+    padding:20px;
+    float: left;
+    font-size: .9em;
+    color: white;
+}
+
+.jumbo-blue .container h1 {
+    font-size: 1.9em;
+}
+
+.jumbo-blue .container p {
+    font-size: 1.2em;
+}
+
+.container-fluid {
+    padding-left: 0;
+}
+
+.jumbo-white {
+    background-color: white;
+    padding-top: 8px;
+    padding-bottom: 18px;
+    color: #2C3E50;
+
+}
+
+.jumbo-navy {
+    background-color: #2C3E50;
+    margin-bottom: 0px;
+}
+
+.project-highlight h4 {
+    color: #3B97D3;
+    font-size: 1.4em;
+}
+
+.project-highlight p {
+    color: #2C3E50;
+    font-size: 1em;
+}
+
+.links {
+    text-align: left;
+
+}
+.links h4 {
+    color: white;
+}
+
+.links a {
+    color: #3B97D3;
+    font-weight: bolder;
+}
+
+.links a:hover {
+    color: #2980BA;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+
+
+@media (min-width: 768px) {
+
+    .navbar-nav {
+        float: left;
+        margin: 0;
+        padding-top: 13px;
+    }
+}
+
+@media (min-width: 1248px) {
+    .jumbo-blue {
+        height: 28em;
+
+        background-size: 30%;
+    }
+
+    .jumbo-blue .container {
+        width: 50%;
+        float: left;
+        font-size: 1em;
+        color: white;
+    }
+}
+
+@media (max-width: 1048px) {
+    .jumbo-blue {
+        height: 39em;
+
+        background-size: 45%;
+    }
+
+    .jumbo-blue .container {
+        width: 50%;
+        float: left;
+        font-size: 1em;
+        color: white;
+    }
+}
+
+
+@media (max-width: 768px) {
+    .jumbo-blue {
+        height: 40em;
+
+        background-size: 45%;
+    }
+
+    .links {
+        text-align: center;
+
+    }
+
+    .jumbo-blue .container {
+        width: 100%;
+        float: left;
+        font-size: .9em;
+        color: white;
+        background: none;
+    }
+}
+
+@media (max-width: 468px) {
+    .jumbo-blue {
+        height: 45em;
+
+        background-size: 45%;
+    }
+
+    .jumbo-blue .container {
+        width: 100%;
+        float: left;
+        font-size: .9em;
+        color: white;
+        background: none;
+    }
+}
+
+.body {
+    padding: 2em;
+}
+
+
+
+
+
+
