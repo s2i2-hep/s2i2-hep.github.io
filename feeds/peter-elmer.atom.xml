@@ -4,4 +4,4 @@
 
 &lt;p&gt;We have created &lt;a href="https://github.com/s2i2-hep"&gt;S2I2-HEP GitHub Organization&lt;/a&gt;&lt;/p&gt;
 &lt;hr /&gt;
-&lt;p&gt;This is a little badge to make sure the web site is healthy: &lt;img alt="" src="https://travis-ci.org/diana-hep/diana-hep.github.io-source.svg?branch=master" /&gt;&lt;/p&gt;</summary><category term="news"></category></entry></feed>
+&lt;!--- This is a little badge to make sure the web site is healthy: ![](https://travis-ci.org/diana-hep/diana-hep.github.io-source.svg?branch=master) ---&gt;</summary><category term="news"></category></entry></feed>

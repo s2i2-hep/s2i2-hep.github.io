@@ -4,4 +4,4 @@
 
 &lt;p&gt;We have created &lt;a href="https://github.com/s2i2-hep"&gt;S2I2-HEP GitHub Organization&lt;/a&gt;&lt;/p&gt;
 &lt;hr /&gt;
-&lt;p&gt;This is a little badge to make sure the web site is healthy: &lt;img alt="" src="https://travis-ci.org/diana-hep/diana-hep.github.io-source.svg?branch=master" /&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Peter Elmer</dc:creator><pubDate>Thu, 16 Jun 2016 10:37:00 +0200</pubDate><guid isPermaLink="false">tag:,2016-06-16:Announcing_S2I2.html</guid><category>news</category></item></channel></rss>
+&lt;!--- This is a little badge to make sure the web site is healthy: ![](https://travis-ci.org/diana-hep/diana-hep.github.io-source.svg?branch=master) ---&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Peter Elmer</dc:creator><pubDate>Thu, 16 Jun 2016 10:37:00 +0200</pubDate><guid isPermaLink="false">tag:,2016-06-16:Announcing_S2I2.html</guid><category>news</category></item></channel></rss>
