@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>S2I2 HEP - Peter Elmer</title><link href="/" rel="alternate"></link><link href="/feeds/peter-elmer.atom.xml" rel="self"></link><id>/</id><updated>2017-01-20T10:37:00+01:00</updated><entry><title>S2I2-HEP / CS Workshop Summary Report Available</title><link href="/NCSA_UIUC_WKSHP_RPT.html" rel="alternate"></link><published>2017-01-20T10:37:00+01:00</published><updated>2017-01-20T10:37:00+01:00</updated><author><name>Peter Elmer</name></author><id>tag:None,2017-01-20:/NCSA_UIUC_WKSHP_RPT.html</id><summary type="html">&lt;p&gt;We would like to thank those of you who participated in the kick-off meeting for the S2I2-HEP HEP/CS conceptualization workshop last month:&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>S2I2 HEP - Peter Elmer</title><link href="/" rel="alternate"></link><link href="/feeds/peter-elmer.atom.xml" rel="self"></link><id>/</id><updated>2017-12-18T10:12:00+01:00</updated><entry><title>S2I2-HEP Strategic Plan and Community White Paper documents now available</title><link href="/S2I2_HEP_SP_CWP_AVAIL.html" rel="alternate"></link><published>2017-12-18T10:12:00+01:00</published><updated>2017-12-18T10:12:00+01:00</updated><author><name>Peter Elmer</name></author><id>tag:None,2017-12-18:/S2I2_HEP_SP_CWP_AVAIL.html</id><summary type="html">&lt;p&gt;We are happy to announce that the S2I2-HEP Strategic Plan and Community White Paper documents are now available:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Strategic Plan for a Scientific Software Innovation Institute (S2I2) for
+   High Energy Physics - &lt;a href="https://arxiv.org/abs/1712.06592"&gt;arXiv 1712.06592&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;A Roadmap for HEP Software and Computing R&amp;amp;D for the 2020s (Community White Paper) - &lt;a href="https://arxiv.org/abs/1712.06982"&gt;arXiv …&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;p&gt;We are happy to announce that the S2I2-HEP Strategic Plan and Community White Paper documents are now available:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Strategic Plan for a Scientific Software Innovation Institute (S2I2) for
+   High Energy Physics - &lt;a href="https://arxiv.org/abs/1712.06592"&gt;arXiv 1712.06592&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;A Roadmap for HEP Software and Computing R&amp;amp;D for the 2020s (Community White Paper) - &lt;a href="https://arxiv.org/abs/1712.06982"&gt;arXiv 1712.06982&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Thanks to everyone who participated in the processes to produce these two
+documents over the past year!&lt;/p&gt;</content><category term="news"></category></entry><entry><title>S2I2-HEP / CS Workshop Summary Report Available</title><link href="/NCSA_UIUC_WKSHP_RPT.html" rel="alternate"></link><published>2017-01-20T10:37:00+01:00</published><updated>2017-01-20T10:37:00+01:00</updated><author><name>Peter Elmer</name></author><id>tag:None,2017-01-20:/NCSA_UIUC_WKSHP_RPT.html</id><summary type="html">&lt;p&gt;We would like to thank those of you who participated in the kick-off meeting for the S2I2-HEP HEP/CS conceptualization workshop last month:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;7-9 Dec, 2016 - S2I2 HEP/CS Workshop&lt;ul&gt;
 &lt;li&gt;&lt;em&gt;University of Illinois at Urbana-Champaign&lt;/em&gt;&lt;/li&gt;
